@@ -16,7 +16,8 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.clark.textupdate"
+      "bundleIdentifier": "com.clark.textupdate",
+      "buildNumber":"2"
     },
     "android": {
       "adaptiveIcon": {
