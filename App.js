@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>测试更新4444455666</Text>
+      <Text>测试更新44444556661111</Text>
       <StatusBar style="auto" />
     </View>
   );
